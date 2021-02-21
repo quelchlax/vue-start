@@ -1,4 +1,4 @@
-# quelch
+# Vue Config
 
 ## Project setup
 ```
